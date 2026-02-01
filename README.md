@@ -1,4 +1,12 @@
 ## 📌 Project Overview
+![Python](https://img.shields.io/badge/Python-API%20Development-blue)
+![CoinMarketCap API](https://img.shields.io/badge/API-CoinMarketCap%20Integration-lightgrey)
+![Requests](https://img.shields.io/badge/Requests-HTTP%20Requests-yellowgreen)
+![JSON](https://img.shields.io/badge/JSON-Data%20Parsing-orange)
+![Real‑Time Data](https://img.shields.io/badge/Real‑Time%20Data-Market%20Tracking-red)
+![Crypto](https://img.shields.io/badge/Cryptocurrency‑Tracker-purple)
+![Portfolio Project](https://img.shields.io/badge/Type‑Portfolio%20Project-important)
+
 This project automates the process of pulling **real-time cryptocurrency market data** from the **CoinMarketCap API**.  
 It goes beyond basic API requests by implementing an **automated data collection loop**, a **robust transformation pipeline**, and **custom visualisations** to track market trends over time.
 
